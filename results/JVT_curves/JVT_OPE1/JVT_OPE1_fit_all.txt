@@ -1,0 +1,91 @@
+
+T=270K
+Fit_report:	Error	1.45
+	par:	val	Err
+	gammaL	1.540538e-02	3.675687e+03
+	gammaR	1.540517e-02	3.675590e+03
+	deltaE1	5.614428e-01	6.204001e-02
+	eta	4.664873e-01	1.490313e-03
+	sigma	2.154133e-01	6.151975e-02
+
+T=260K 
+Fit_report:	Error	2.39
+	par:	val	Err
+	gammaL	2.385766e-02	1.030628e+02
+	gammaR	2.384353e-02	1.029584e+02
+	deltaE1	6.363958e-01	1.149293e-01
+	eta	4.862073e-01	8.614680e-04
+	sigma	2.362557e-01	8.324911e-02
+
+T=250K 
+Fit_report:	Error	1.43
+	par:	val	Err
+	gammaL	1.384772e-02	1.583971e+05
+	gammaR	1.384772e-02	1.583971e+05
+	deltaE1	5.473052e-01	2.817298e-02
+	eta	4.853545e-01	5.532991e-04
+	sigma	2.023678e-01	2.384613e-02
+
+T=240K 
+Fit_report:	Error	2.35
+	par:	val	Err
+	gammaL	1.798857e-02	1.666308e+01
+	gammaR	1.795605e-02	1.660748e+01
+	deltaE1	5.593570e-01	4.083041e-02
+	eta	4.546673e-01	1.197377e-03
+	sigma	2.059833e-01	3.810918e-02
+
+T=230K 
+Fit_report:	Error	2.10
+	par:	val	Err
+	gammaL	1.211187e-02	3.624538e+01
+	gammaR	1.210251e-02	3.619054e+01
+	deltaE1	4.814290e-01	1.943638e-02
+	eta	4.572745e-01	1.167206e-03
+	sigma	1.844373e-01	2.886734e-02
+
+T=220K
+Fit_report:	Error	2.37
+	par:	val	Err
+	gammaL	2.207724e-02	5.626674e+05
+	gammaR	2.207724e-02	5.626673e+05
+	deltaE1	5.054332e-01	4.347732e-02
+	eta	4.850568e-01	1.824611e-03
+	sigma	2.132681e-01	4.991730e-02
+
+T=210K 
+Fit_report:	Error	1.53
+	par:	val	Err
+	gammaL	2.360458e-02	1.771709e+03
+	gammaR	2.360271e-02	1.771437e+03
+	deltaE1	5.120236e-01	8.258991e-02
+	eta	4.912616e-01	1.449806e-03
+	sigma	2.143553e-01	1.301690e-01
+
+T=200K 
+Fit_report:	Error	2.13
+	par:	val	Err
+	gammaL	2.306459e-02	1.834683e+02
+	gammaR	2.305339e-02	1.832977e+02
+	deltaE1	5.287153e-01	6.513263e-02
+	eta	5.171092e-01	1.363729e-03
+	sigma	2.168246e-01	8.791677e-02
+
+T=190K
+Fit_report:	Error	1.90
+	par:	val	Err
+	gammaL	3.538681e-02	8.028605e+01
+	gammaR	3.543445e-02	8.042821e+01
+	deltaE1	7.474420e-01	3.136514e-01
+	eta	5.042239e-01	9.228840e-04
+	sigma	2.586756e-01	1.583586e-01
+
+T=180K 
+Fit_report:	Error	2.03
+	par:	val	Err
+	gammaL	2.539679e-02	1.717119e+03
+	gammaR	2.539792e-02	1.717245e+03
+	deltaE1	6.603224e-01	1.570605e-01
+	eta	4.982143e-01	6.577432e-04
+	sigma	2.454499e-01	1.056148e-01
+

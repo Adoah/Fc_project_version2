@@ -1,0 +1,171 @@
+1
+Fit_report:	Error	33.82
+	par:	val	Err
+	gammaL	4.086058e-02	5.198407e-03
+	gammaR	4.086058e-02	5.198407e-03
+	deltaE1	9.548038e-01	1.763725e-01
+	eta	1.000000e+00	1.635420e-01
+	sigma	1.132680e-01	3.529790e-02
+
+2
+Fit_report:	Error	32.88
+	par:	val	Err
+	gammaL	3.846925e-02	1.827855e-03
+	gammaR	3.846925e-02	1.827855e-03
+	deltaE1	9.521889e-01	6.839384e-02
+	eta	1.000000e+00	6.450692e-02
+	sigma	1.013928e-01	1.283823e-02
+
+3
+Fit_report:	Error	29.53
+	par:	val	Err
+	gammaL	3.321386e-02	1.494977e-03
+	gammaR	3.321386e-02	1.494977e-03
+	deltaE1	9.645975e-01	6.532601e-02
+	eta	9.995188e-01	6.070817e-02
+	sigma	1.132852e-01	1.210354e-02
+
+4
+Fit_report:	Error	28.51
+	par:	val	Err
+	gammaL	3.069307e-02	1.596973e-03
+	gammaR	3.069307e-02	1.596973e-03
+	deltaE1	9.797524e-01	7.408966e-02
+	eta	9.999799e-01	6.746095e-02
+	sigma	1.211529e-01	1.361334e-02
+
+5
+Fit_report:	Error	29.15
+	par:	val	Err
+	gammaL	2.961259e-02	1.526673e-03
+	gammaR	2.961259e-02	1.526673e-03
+	deltaE1	9.827170e-01	7.371312e-02
+	eta	9.999616e-01	6.693782e-02
+	sigma	1.235048e-01	1.349210e-02
+
+6
+Fit_report:	Error	27.39
+	par:	val	Err
+	gammaL	2.739275e-02	1.518141e-03
+	gammaR	2.739275e-02	1.518141e-03
+	deltaE1	9.225913e-01	6.951354e-02
+	eta	9.343873e-01	6.236391e-02
+	sigma	1.160330e-01	1.268385e-02
+
+7
+Fit_report:	Error	26.19
+	par:	val	Err
+	gammaL	2.694431e-02	1.718192e-03
+	gammaR	2.694431e-02	1.718192e-03
+	deltaE1	1.000000e+00	8.777844e-02
+	eta	9.952063e-01	7.736220e-02
+	sigma	1.325312e-01	1.589685e-02
+
+8
+Fit_report:	Error	25.37
+	par:	val	Err
+	gammaL	2.520407e-02	1.689030e-03
+	gammaR	2.520407e-02	1.689030e-03
+	deltaE1	1.000000e+00	9.097804e-02
+	eta	9.866783e-01	7.914452e-02
+	sigma	1.404206e-01	1.689481e-02
+
+9
+Fit_report:	Error	27.85
+	par:	val	Err
+	gammaL	2.483037e-02	2.004719e-03
+	gammaR	2.483037e-02	2.004719e-03
+	deltaE1	8.637694e-01	8.165650e-02
+	eta	8.560882e-01	7.036928e-02
+	sigma	1.106732e-01	1.446498e-02
+
+10
+Fit_report:	Error	26.87
+	par:	val	Err
+	gammaL	2.139159e-02	1.126683e-03
+	gammaR	2.139159e-02	1.126683e-03
+	deltaE1	7.807326e-01	4.375461e-02
+	eta	7.801261e-01	3.761362e-02
+	sigma	1.000224e-01	7.888529e-03
+
+11
+Fit_report:	Error	26.11
+	par:	val	Err
+	gammaL	2.568589e-02	3.144725e-03
+	gammaR	2.568589e-02	3.144725e-03
+	deltaE1	9.276317e-01	1.323913e-01
+	eta	8.968840e-01	1.116932e-01
+	sigma	1.181135e-01	2.203169e-02
+
+12
+Fit_report:	Error	26.34
+	par:	val	Err
+	gammaL	1.665776e-02	1.348878e+00
+	gammaR	1.669645e-02	1.352865e+00
+	deltaE1	6.119191e-01	1.222821e-02
+	eta	6.268151e-01	1.120133e-02
+	sigma	7.385068e-02	5.423503e-03
+
+13
+Fit_report:	Error	26.40
+	par:	val	Err
+	gammaL	1.620315e-02	6.606152e+05
+	gammaR	1.620315e-02	6.606152e+05
+	deltaE1	5.971701e-01	9.740952e-03
+	eta	6.155608e-01	7.118795e-03
+	sigma	7.129636e-02	2.223064e-03
+
+14
+Fit_report:	Error	25.72
+	par:	val	Err
+	gammaL	1.547755e-02	5.302152e-04
+	gammaR	1.547755e-02	5.302152e-04
+	deltaE1	5.897670e-01	7.994530e-03
+	eta	6.057286e-01	5.310186e-03
+	sigma	7.261352e-02	1.959901e-03
+
+15
+Fit_report:	Error	26.47
+	par:	val	Err
+	gammaL	1.655350e-02	6.006620e-04
+	gammaR	1.655350e-02	6.006620e-04
+	deltaE1	6.032370e-01	1.081243e-02
+	eta	6.193705e-01	8.015768e-03
+	sigma	7.303546e-02	2.329601e-03
+
+16
+Fit_report:	Error	24.88
+	par:	val	Err
+	gammaL	1.457737e-02	4.567434e-04
+	gammaR	1.457737e-02	4.567434e-04
+	deltaE1	5.793184e-01	6.124091e-03
+	eta	5.958397e-01	3.666451e-03
+	sigma	7.217164e-02	1.645767e-03
+
+17
+Fit_report:	Error	24.43
+	par:	val	Err
+	gammaL	1.561334e-02	4.486057e-04
+	gammaR	1.561334e-02	4.486057e-04
+	deltaE1	5.652537e-01	4.721146e-03
+	eta	5.837912e-01	2.442504e-03
+	sigma	6.920901e-02	1.429543e-03
+
+18
+Fit_report:	Error	25.22
+	par:	val	Err
+	gammaL	1.527168e-02	5.093747e-04
+	gammaR	1.527168e-02	5.093747e-04
+	deltaE1	5.872411e-01	7.499823e-03
+	eta	6.037105e-01	4.888978e-03
+	sigma	7.412047e-02	1.840746e-03
+
+19
+Fit_report:	Error	26.11
+	par:	val	Err
+	gammaL	1.656616e-02	4.494108e-04
+	gammaR	1.656616e-02	4.494108e-04
+	deltaE1	5.664008e-01	4.853117e-03
+	eta	5.859383e-01	2.822569e-03
+	sigma	6.643836e-02	1.336508e-03
+

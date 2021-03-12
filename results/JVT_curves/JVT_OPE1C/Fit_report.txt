@@ -1,0 +1,67 @@
+
+T=300K 
+Fit_report:	Error	2.17
+	par:	val	Err
+	gammaL	7.762566e-02	1.016222e-03
+	gammaR	7.762566e-02	1.016222e-03
+	deltaE1	6.534572e-01	2.405072e-03
+	eta	4.580760e-01	5.144858e-04
+	sigma	1.407757e-01	3.082648e-03
+
+T=290K 
+Fit_report:	Error	2.24
+	par:	val	Err
+	gammaL	8.545981e-02	1.526076e-03
+	gammaR	8.545981e-02	1.526076e-03
+	deltaE1	6.636426e-01	3.885364e-03
+	eta	4.548817e-01	8.659138e-04
+	sigma	1.365255e-01	5.517373e-03
+
+T=280
+Fit_report:	Error	1.93
+	par:	val	Err
+	gammaL	8.198503e-02	1.962116e-03
+	gammaR	8.198503e-02	1.962116e-03
+	deltaE1	6.492550e-01	4.488789e-03
+	eta	4.547954e-01	9.709156e-04
+	sigma	1.408212e-01	5.559028e-03
+
+T=270K 
+Fit_report:	Error	2.32
+	par:	val	Err
+	gammaL	7.785177e-02	9.348090e-04
+	gammaR	7.785177e-02	9.348090e-04
+	deltaE1	6.653911e-01	2.287415e-03
+	eta	4.554132e-01	4.912024e-04
+	sigma	1.467234e-01	2.894258e-03
+
+T=260K 
+Fit_report:	Error	1.94
+	par:	val	Err
+	gammaL	7.643290e-02	1.133024e-03
+	gammaR	7.643290e-02	1.133024e-03
+	deltaE1	6.722874e-01	2.597236e-03
+	eta	4.592388e-01	5.020905e-04
+	sigma	1.576415e-01	3.135502e-03
+
+T=250K 
+Fit_report:	Error	2.00
+	par:	val	Err
+	gammaL	8.140601e-02	1.576276e-03
+	gammaR	8.140601e-02	1.576276e-03
+	deltaE1	6.588366e-01	3.420240e-03
+	eta	4.605325e-01	5.191204e-04
+	sigma	1.659406e-01	3.143761e-03
+
+T=240K 
+Fit_report:	Error	2.17
+	par:	val	Err
+	gammaL	7.859770e-02	1.358440e-03
+	gammaR	7.859770e-02	1.358440e-03
+	deltaE1	6.703059e-01	2.942366e-03
+	eta	4.615953e-01	5.137739e-04
+	sigma	1.635184e-01	3.307807e-03
+
+
+
+
