@@ -1,0 +1,4 @@
+def Q(Vb, A, W):
+    return (1-1/(1+np.exp((Vb-A)/W)))
+
+Fit it with this function too. It shouldn't take long it only has two parameters. But Enrique will definitely ask when we present to him. Include the results in the powerpoint.
