@@ -1,0 +1,24 @@
+
+E	-7.510000e-01	
+l	1.190000e+00	
+cap	1.2704e+00	
+W	2.500000e-01	
+A	8.300000e-01	
+
+
+
+
+Explanation of Parameters:
+
+From the Activation energy function, I was convinced that all parameters has 
+a unit of eV per volt including cap.
+
+1eV/v=1.6e-19C/v
+
+Therefore, 1.27eV/v=[(1.27eV/v)/(1eV/v)] x 1.6e-19C/v
+                   = 2.03e-19C/v ,but C/v=F
+                   
+Therefore, 2.03e-19C/v=2.03e-19F 
+In the BTTF work, you had 1.31e-19F. I initially tried to use such value for cap and it did not work. I noticed i could get close by using the above conversions. Also, was convinced that 2.03e-19F is right although bigger than 1.31e-19F. This was based on Figure24c was your work, and the fitting in your case was done for only half of the entire figure. So, i am convinced that, if we are to do the fitting for the entire figure, we shall be moving from 1.31e-19F to 2.03e-19F.
+
+All other parameters conform to the values you had for Figure24C of the BTTF work. I use the same logic to work on the current Fc-OPEn & OPEnC . 
