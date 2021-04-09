@@ -1,10 +1,10 @@
 import glob
 import pandas as pd
 import matplotlib.pyplot  as plt
-from penguins.Model       import Model                        as mod
-from penguins.functions   import E_act_fixedtemp_biasvoltageN  as E_act
-from penguins.functions   import E_act_fixedtemp_gatevoltage  as E_act_G
-from penguins.functions   import charge                       as Q
+from Model       import Model                        as mod
+from functions   import E_act_fixedtemp_biasvoltageN  as E_act
+from functions   import E_act_fixedtemp_gatevoltage  as E_act_G
+from functions   import chargeN                       as Q
 import numpy as np
 
 Fixed = {
