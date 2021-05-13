@@ -322,7 +322,7 @@ def E_act_fixedtemp_gatevoltage(Vg,E,l,T0,T1):
     return FinalAns
 
 def chargeN(V,A,W):
-    return (1/(1+np.exp((V+A)/W)))
+    return (1/(1+np.exp((V-A)/W)))
 
 def chargeP(V,A,W):
     return(1-1/(1+np.exp((V-A)/W)))
