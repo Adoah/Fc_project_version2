@@ -1,0 +1,19 @@
+Fit_report:	Error	0.34
+	par:	val	Err
+	gammaL	3.687327e-06	4.376223e-08
+	gammaR	6.472737e-03	3.768462e-04
+	deltaE1	7.160115e-01	8.374952e-03
+	eta	5.114555e-01	2.085639e-03
+	sigma	1.599657e-01	4.315861e-03
+
+
+
+Fit_report:	Error	0.34
+	par:	val	Err
+	gammaL	3.687327e-06	4.376239e-08
+	gammaR	6.472737e-03	3.768458e-04
+	deltaE1	7.160115e-01	8.374959e-03
+	eta	5.114555e-01	2.085626e-03
+	sigma	1.599657e-01	4.315863e-03
+
+
